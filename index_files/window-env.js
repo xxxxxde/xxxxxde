@@ -1,0 +1,1 @@
+window.__env__={"defaultChain":1,"enableQaHelpers":false,"ethAPIBasePath":"https://eth-api.lido.fi","ipfsMode":false,"matomoHost":"https://matomo.lido.fi/","prefillUnsafeElRpcUrls1":[],"prefillUnsafeElRpcUrls17000":[],"prefillUnsafeElRpcUrls5":[],"supportedChains":[1],"walletconnectProjectId":"ef5e3f03bd7f5bd7c88640111eb6b38a","wqAPIBasePath":"https://wq-api.lido.fi"}
